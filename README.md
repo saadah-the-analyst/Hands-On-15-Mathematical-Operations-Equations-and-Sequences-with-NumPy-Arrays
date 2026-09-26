@@ -25,6 +25,8 @@ In the modern business landscape, tracking micro-level revenue trends, evaluatin
 * **Strategic Business Insights:** Total sales figures reveal the overarching financial velocity of the storefront across the week, while average daily sales provide the granular baseline required for optimal inventory stocking, supply chain replenishment, and staff scheduling.
 
 ![Sales Performance Calculation Code Implementation Screenshot](1.png)
+
+
 ![Sales Performance Calculation Code Implementation Screenshot](2.png)
 
 ---
@@ -40,6 +42,8 @@ Understanding how academic cohorts perform collectively and how individual learn
 * **Comprehensive Understanding of Standard Deviation:** Standard deviation measures the absolute spread and variability of a dataset around its central average. A low standard deviation indicates that students clustered tightly around the class average, demonstrating uniform teaching comprehension, whereas a high standard deviation indicates scattered academic performance where some students excelled while others required immediate educational intervention.
 
 ![Student Performance and Standard Deviation Code Screenshot](3.png)
+
+
 ![Student Performance and Standard Deviation Code Screenshot](4.png)
 ---
 
@@ -54,6 +58,8 @@ Scientific computing, mechanical modeling, and advanced engineering simulations 
 * **Advanced Mathematical Takeaway:** Observing how numerical outputs evolve as term counts increase helps engineers, physicists, and data modelers understand the stability, numerical precision, and computational predictability of algorithms when processing massive scientific data streams.
 
 ![Trigonometric Series and Convergence Code Screenshot](5.png)
+
+
 ![Trigonometric Series and Convergence Code Screenshot](6.png)
 
 ---
@@ -70,6 +76,8 @@ Applying array broadcasting, vector arithmetic, and statistical aggregation to a
 * **Calculation 6 (Market Distribution - Split Two Ways):** Using `np.divide(harvest_weights, 2.0)`, we split each week's total crop weight evenly into two equal parts to assist logistics planners in distributing food stock equally between two separate regional sales markets (`[60., 67.5, 75., 82.5]`).
 
 ![Farm Crop Yield Monitoring Code Screenshot](7.png)
+
+
 ![Farm Crop Yield Monitoring Code Screenshot](8.png)
 
 ---
