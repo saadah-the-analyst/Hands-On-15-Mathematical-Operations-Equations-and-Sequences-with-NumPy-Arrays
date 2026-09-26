@@ -41,6 +41,7 @@ Understanding how academic cohorts perform collectively and how individual learn
 * **Sum of Squared Deviations Aggregation:** Using `np.sum(squared_deviations)`, we accumulate the total squared dispersion across the entire academic cohort, resulting in a total sum of squares equal to $932.5$.
 * **Comprehensive Understanding of Standard Deviation:** Standard deviation measures the absolute spread and variability of a dataset around its central average. A low standard deviation indicates that students clustered tightly around the class average, demonstrating uniform teaching comprehension, whereas a high standard deviation indicates scattered academic performance where some students excelled while others required immediate educational intervention.
 
+
 ![Student Performance and Standard Deviation Code Screenshot](3.png)
 
 
