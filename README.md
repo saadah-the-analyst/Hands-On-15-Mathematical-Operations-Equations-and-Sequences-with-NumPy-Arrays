@@ -92,4 +92,5 @@ Through these diverse, hands-on exercises, this project successfully demonstrate
 
 ---
 
-* **Author:** Muhyideen Saadah Aduke
+## Author
+Muhyideen Saadah Aduke
