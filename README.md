@@ -24,7 +24,8 @@ In the modern business landscape, tracking micro-level revenue trends, evaluatin
 * **Incremental Performance Delta Comparison:** By subtracting the original revenue array from our newly scaled projection array (`adjusted_sales - daily_sales`), we isolate the exact additional revenue generated per individual day under the 10% growth scenario, mapping out precise financial gains.
 * **Strategic Business Insights:** Total sales figures reveal the overarching financial velocity of the storefront across the week, while average daily sales provide the granular baseline required for optimal inventory stocking, supply chain replenishment, and staff scheduling.
 
-![Sales Performance Calculation Code Implementation Screenshot](screenshots/sales_performance_code_screenshot.png)
+![Sales Performance Calculation Code Implementation Screenshot](1.png)
+![Sales Performance Calculation Code Implementation Screenshot](2.png)
 
 ---
 
@@ -38,8 +39,8 @@ Understanding how academic cohorts perform collectively and how individual learn
 * **Sum of Squared Deviations Aggregation:** Using `np.sum(squared_deviations)`, we accumulate the total squared dispersion across the entire academic cohort, resulting in a total sum of squares equal to $932.5$.
 * **Comprehensive Understanding of Standard Deviation:** Standard deviation measures the absolute spread and variability of a dataset around its central average. A low standard deviation indicates that students clustered tightly around the class average, demonstrating uniform teaching comprehension, whereas a high standard deviation indicates scattered academic performance where some students excelled while others required immediate educational intervention.
 
-![Student Performance and Standard Deviation Code Screenshot](screenshots/student_performance_code_screenshot.png)
-
+![Student Performance and Standard Deviation Code Screenshot](3.png)
+![Student Performance and Standard Deviation Code Screenshot](4.png)
 ---
 
 ### Exercise 3: Engineering & Scientific Computing - Trigonometric Series and Convergence
@@ -52,7 +53,8 @@ Scientific computing, mechanical modeling, and advanced engineering simulations 
 * **Summation and Convergence Limit Testing:** Using `np.sum(series_terms)`, we calculate the cumulative sum of the series. By expanding our term generation thresholds across larger operational scales ($99$ terms yielding $2.588$, $999$ terms yielding $3.742$, and $9,999$ terms yielding $4.893$), we rigorously investigate how mathematical series behave as they approach asymptotic limits.
 * **Advanced Mathematical Takeaway:** Observing how numerical outputs evolve as term counts increase helps engineers, physicists, and data modelers understand the stability, numerical precision, and computational predictability of algorithms when processing massive scientific data streams.
 
-![Trigonometric Series and Convergence Code Screenshot](screenshots/trigonometric_series_code_screenshot.png)
+![Trigonometric Series and Convergence Code Screenshot](5.png)
+![Trigonometric Series and Convergence Code Screenshot](6.png)
 
 ---
 
@@ -67,7 +69,8 @@ Applying array broadcasting, vector arithmetic, and statistical aggregation to a
 * **Calculation 5 (Bonus Subsidy - 15 kg Increment):** Using `np.add(harvest_weights, 15.0)`, we simulate an extra governmental supply boost or organic fertilizer subsidy granted to farmers, increasing each week's recorded yield by $15\text{ kg}$ (`[135., 150., 165., 180.]`).
 * **Calculation 6 (Market Distribution - Split Two Ways):** Using `np.divide(harvest_weights, 2.0)`, we split each week's total crop weight evenly into two equal parts to assist logistics planners in distributing food stock equally between two separate regional sales markets (`[60., 67.5, 75., 82.5]`).
 
-![Farm Crop Yield Monitoring Code Screenshot](screenshots/agricultural_crop_yield_code_screenshot.png)
+![Farm Crop Yield Monitoring Code Screenshot](7.png)
+![Farm Crop Yield Monitoring Code Screenshot](8.png)
 
 ---
 
