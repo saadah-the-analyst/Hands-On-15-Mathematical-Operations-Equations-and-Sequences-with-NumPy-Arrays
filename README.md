@@ -25,6 +25,7 @@ In the modern business landscape, tracking micro-level revenue trends, evaluatin
 * **Strategic Business Insights:** Total sales figures reveal the overarching financial velocity of the storefront across the week, while average daily sales provide the granular baseline required for optimal inventory stocking, supply chain replenishment, and staff scheduling.
 
 ---
+### Code Snippets
 
 ![Sales Performance Calculation Code Implementation Screenshot](1.png)
 
