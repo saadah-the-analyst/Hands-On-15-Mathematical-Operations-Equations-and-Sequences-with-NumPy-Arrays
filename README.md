@@ -24,6 +24,8 @@ In the modern business landscape, tracking micro-level revenue trends, evaluatin
 * **Incremental Performance Delta Comparison:** By subtracting the original revenue array from our newly scaled projection array (`adjusted_sales - daily_sales`), we isolate the exact additional revenue generated per individual day under the 10% growth scenario, mapping out precise financial gains.
 * **Strategic Business Insights:** Total sales figures reveal the overarching financial velocity of the storefront across the week, while average daily sales provide the granular baseline required for optimal inventory stocking, supply chain replenishment, and staff scheduling.
 
+---
+
 ![Sales Performance Calculation Code Implementation Screenshot](1.png)
 
 
