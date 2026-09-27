@@ -44,6 +44,9 @@ Understanding how academic cohorts perform collectively and how individual learn
 * **Sum of Squared Deviations Aggregation:** Using `np.sum(squared_deviations)`, we accumulate the total squared dispersion across the entire academic cohort, resulting in a total sum of squares equal to $932.5$.
 * **Comprehensive Understanding of Standard Deviation:** Standard deviation measures the absolute spread and variability of a dataset around its central average. A low standard deviation indicates that students clustered tightly around the class average, demonstrating uniform teaching comprehension, whereas a high standard deviation indicates scattered academic performance where some students excelled while others required immediate educational intervention.
 
+---
+
+### Code Snippets
 
 ![Student Performance and Standard Deviation Code Screenshot](3.png)
 
@@ -60,6 +63,10 @@ Scientific computing, mechanical modeling, and advanced engineering simulations 
 * **Series Term Construction:** We construct our series elements by dividing the trigonometric sine component by each sequential array value (`sine_component / k`), generating a complete vector of fractional series terms.
 * **Summation and Convergence Limit Testing:** Using `np.sum(series_terms)`, we calculate the cumulative sum of the series. By expanding our term generation thresholds across larger operational scales ($99$ terms yielding $2.588$, $999$ terms yielding $3.742$, and $9,999$ terms yielding $4.893$), we rigorously investigate how mathematical series behave as they approach asymptotic limits.
 * **Advanced Mathematical Takeaway:** Observing how numerical outputs evolve as term counts increase helps engineers, physicists, and data modelers understand the stability, numerical precision, and computational predictability of algorithms when processing massive scientific data streams.
+
+---
+
+### Code Snippets
 
 ![Trigonometric Series and Convergence Code Screenshot](5.png)
 
@@ -78,6 +85,10 @@ Applying array broadcasting, vector arithmetic, and statistical aggregation to a
 * **Calculation 4 (Waste Adjustment - 5 kg Deduction):** Using `np.subtract(harvest_weights, 5.0)`, we deduct $5\text{ kg}$ from each week's record to account for normal post-harvest losses, transit damage, or storage spoilage (`[115., 130., 145., 160.]`).
 * **Calculation 5 (Bonus Subsidy - 15 kg Increment):** Using `np.add(harvest_weights, 15.0)`, we simulate an extra governmental supply boost or organic fertilizer subsidy granted to farmers, increasing each week's recorded yield by $15\text{ kg}$ (`[135., 150., 165., 180.]`).
 * **Calculation 6 (Market Distribution - Split Two Ways):** Using `np.divide(harvest_weights, 2.0)`, we split each week's total crop weight evenly into two equal parts to assist logistics planners in distributing food stock equally between two separate regional sales markets (`[60., 67.5, 75., 82.5]`).
+
+---
+
+### Code Snippets
 
 ![Farm Crop Yield Monitoring Code Screenshot](7.png)
 
